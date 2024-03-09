@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
-class FootballGame{
+class FootballGame   //class create
+{
     public:
     string team1;
     string team2;
