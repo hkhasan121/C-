@@ -37,5 +37,5 @@ int main()
     cout << "area: " << 4 * 3.1416 * x * x << endl;
     cout << "rectangle area: " << rectangle.length * rectangle.width << endl;
 
-    return 0; // Don't forget to return 0 at the end of main
+    return 0;
 }
